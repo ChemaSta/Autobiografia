@@ -1,0 +1,26 @@
+@charset "utf-8";
+.fondo1 {
+	background-attachment: fixed;
+	background-image: url(Images/61e8630e73fec09c29d422f966409c9a.jpg);
+	background-size: cover;
+	color:#CCC;
+	text-align: center;
+	font-family:"Comic Sans MS", cursive;
+}
+
+.image1 {
+	position: absolute;
+	top: 30%;
+	left: 33.5%;
+	border: outset #000;
+}
+
+.capa1 {
+	position: absolute;
+	margin-top:35%;
+	font-family:"Comic Sans MS", cursive;
+}
+
+.cover {
+	font-family:"Comic Sans MS", cursive;
+}
